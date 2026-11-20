@@ -1,0 +1,6 @@
+{
+  "name": "JUMPVERSE",
+  "description": "JUMPVERSE: The Adventure Never Ends — An original 2D side-scrolling platformer game built by SREEHARITM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
